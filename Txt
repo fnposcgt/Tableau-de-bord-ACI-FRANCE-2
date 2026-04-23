@@ -1,5 +1,4 @@
-cgt-reconquete-app/
-├── docs/
-│   └── app.html
-└── README.md
+docs/
+└── app.html
+
 
