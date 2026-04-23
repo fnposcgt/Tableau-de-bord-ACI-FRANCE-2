@@ -1,1 +1,5 @@
+cgt-reconquete-app/
+├── docs/
+│   └── app.html
+└── README.md
 
